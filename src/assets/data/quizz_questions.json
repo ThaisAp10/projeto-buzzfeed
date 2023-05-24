@@ -1,0 +1,151 @@
+{
+    "title": "Independente da idade, descubra se você se identifica com a geração Millennials ou Geração Z",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Nas redes sociais...",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Verifica o celular a cada minuto",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Utiliza emojis",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "100% conectada",
+                    "alias": "A"
+                },
+                {
+                    "id": 4,
+                    "name": "Não é muito ligada",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Em uma viagem ou passeio...",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Prefere tirar fotos e postar",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Curte o momento e registra algumas fotos e vídeos",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Gosta de Harry Potter?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Sim",
+                    "alias": "B"
+                },
+                {
+                    "id": 2,
+                    "name": "Não",
+                    "alias": "A"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Já maratonou Friends?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Não vi",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Sim, várias",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Não gosto",
+                    "alias": "A"
+                },
+                {
+                    "id": 4,
+                    "name": "Não, vi apenas alguns episódios",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Tem conta no TikTok?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Sim e todo dia fico pelo menos 1h",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Tenho, mas entro as vezes",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Sim e posto vídeos sempre que posso",
+                    "alias": "A"
+                },
+                {
+                    "id": 4,
+                    "name": "Não tenho conta",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Conhece a TV Manchete?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Não",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Sim",
+                    "alias": "B"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Conhece os influenciadores digitais ou Tiktokers do momento?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Sim e sigo a maioria",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Não, mas ouvi falar sobre alguns",
+                    "alias": "B"
+                }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Você é uma pessoa Geração Z!",
+        "B": "Você é uma pessoa Millennials!"
+    }
+}
